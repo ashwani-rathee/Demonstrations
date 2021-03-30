@@ -1,7 +1,5 @@
 # Demos
 Demos
 - 1.jl : Basic Image Import,Show,Processing and Export
-  - Shows how to use testimages and FileIo.load
-  - Shows how to use imshow and mosaicview
-  - Shows how to use typeof,size,sizeof on image to get information on image
-  - Shows how to use save with ability to save in particular directory and in particular format
+- 2.jl : Hough Transform and other circle realted operations
+- All other have been named appropriately to give an idea on what they were used for
